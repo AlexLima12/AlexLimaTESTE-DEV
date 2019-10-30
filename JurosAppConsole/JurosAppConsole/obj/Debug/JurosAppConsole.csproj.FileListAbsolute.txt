@@ -1,0 +1,7 @@
+C:\Users\APLima\Documents\Pessoal\JurosAppConsole\JurosAppConsole\bin\Debug\JurosAppConsole.exe.config
+C:\Users\APLima\Documents\Pessoal\JurosAppConsole\JurosAppConsole\bin\Debug\JurosAppConsole.exe
+C:\Users\APLima\Documents\Pessoal\JurosAppConsole\JurosAppConsole\bin\Debug\JurosAppConsole.pdb
+C:\Users\APLima\Documents\Pessoal\JurosAppConsole\JurosAppConsole\obj\Debug\JurosAppConsole.csprojAssemblyReference.cache
+C:\Users\APLima\Documents\Pessoal\JurosAppConsole\JurosAppConsole\obj\Debug\JurosAppConsole.csproj.CoreCompileInputs.cache
+C:\Users\APLima\Documents\Pessoal\JurosAppConsole\JurosAppConsole\obj\Debug\JurosAppConsole.exe
+C:\Users\APLima\Documents\Pessoal\JurosAppConsole\JurosAppConsole\obj\Debug\JurosAppConsole.pdb
